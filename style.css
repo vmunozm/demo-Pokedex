@@ -1,0 +1,39 @@
+head title{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+   
+}
+
+body{
+    font-family:Verdana;
+    font-size: 20px;
+    text-align:center;
+    
+}
+body {
+    background-color: #ffdd90;
+    
+    
+}
+.namePokemon{
+    color:darkblue;
+    text-align: center;
+    font-style: oblique;
+    font-size: 40px;
+    
+}
+body h1{
+    text-align: center;
+    color:blue;
+}
+.pokemon {
+    text-align: center;
+    }
+.pokemon img{
+    width: 20%;
+    }
+.actions{
+    text-align: center;
+    
+}
